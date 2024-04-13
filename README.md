@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Reddy Ramasagaram</h1>
 <h3 align="center">Data Engineer</h3>
 
-- 🏆 I'm a recent graduate with a Master's in Computer Science from the University of Southern Mississippi, USA.
-  
-- 👀 I’m looking for full-time data engineer/software engineer opportunities in the USA.
-  
 - 🌱 I’m currently learning **GCP, Adobe Cloud**
 
 - 👨‍💻 Portfolio Link [https://rahulreddy-ramasagaram.github.io/portfolio/](https://rahulreddy-ramasagaram.github.io/portfolio/)
@@ -15,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-reddy-9984b9131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-reddy-9984b9131/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-reddy-9984b9131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-reddy-9984b9131/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
