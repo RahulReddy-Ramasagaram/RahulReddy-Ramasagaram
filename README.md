@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul Reddy Ramasagaram</h1>
 <h3 align="center">Data Engineer</h3>
 
+- 🏆 I'm a recent graduate with a Master's in Computer Science from the University of Southern Mississippi, USA.
+
+- 👀 I’m looking for full-time data engineer/software engineer opportunities in the USA.
+
 - 🌱 I’m currently learning **GCP, Adobe Cloud**
 
 - 👨‍💻 Portfolio Link [https://rahulreddy-ramasagaram.github.io/portfolio/](https://rahulreddy-ramasagaram.github.io/portfolio/)
